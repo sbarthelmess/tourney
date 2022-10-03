@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# A script made to keep me constantly developing on
+# the CVS version instead of my local copy
+#
+# This script could work for you if you revise it so:
+# CGI_root = /var/www/cgi-bin
+# and HTML_doc_root = /var/www/html 
+# with HTML_images in /var/www/html/images
+
+cp tourney.cgi /var/www/cgi-bin/
+cp tourney.cfg /var/www/cgi-bin/
+
+echo " "
+echo "Update complete!"
+echo " "
