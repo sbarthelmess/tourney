@@ -1,0 +1,5 @@
+Originally published here:
+http://office.cvs.sourceforge.net/office
+
+Repo:
+cvs -z3 -d:pserver:anonymous@a.cvs.sourceforge.net:/cvsroot/office co -P tourney
