@@ -14,7 +14,7 @@ tourney.cgi file exists.
 
 Example output
 --------------
-![Tourney Screenshot](./templates/tourney.svg)<img src="./templates/tourney.svg">
+![Tourney Screenshot](./templates/tourney.svg)
 
 License
 -------
